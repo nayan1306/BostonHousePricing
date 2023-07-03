@@ -1,4 +1,4 @@
-# Boston House Price Prediction
+# California House Price Prediction
 
 ### Software and Tools Requirements
 1. [Github Account](https://github.com)
