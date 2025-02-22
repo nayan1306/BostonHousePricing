@@ -1,5 +1,5 @@
 # California House Price Prediction
-
+`A machine learning project using linear regression and Django, to create a house price prediction website.`
 ### Live Website
 [California House Price Prediction](https://californiahouseprice.onrender.com)
 
